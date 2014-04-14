@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "authors": [
+    "Ganesh <ganesh@quintessentially.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "twbs/bootstrap-sass#~3.1.1",
+    "backbone": "~1.1.2",
+    "lodash": "~2.4.1",
+    "jquery": "~2.1.0",
+    "requirejs": "~2.1.11",
+  }
+}
